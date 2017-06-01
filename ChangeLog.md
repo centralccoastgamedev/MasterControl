@@ -2,11 +2,10 @@
 CCGD - ChangeLog Master Control
 
 ## [Unreleased]
-### Added
-- Started Repo
-- Started Issues
-- Started ChangeLog Management
+-
 
+### Added
+- 
 
 ### Changed
 - 
@@ -14,8 +13,7 @@ CCGD - ChangeLog Master Control
 ### Removed
 - 
 
-
-## [0.0.1] - 2017-1-06
+## [0.0.2] - 2017-1-06
 ### Started
 - Setup Actual Document
 
